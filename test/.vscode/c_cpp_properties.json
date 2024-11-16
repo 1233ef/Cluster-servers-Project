@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
+
+// gcc -I头文件搜索路径 -L库文件搜索路径 -lmuduo_net
+//如果是/usr/include /usr/local/include下不用在上面写路径，会自己搜索
+//如果是/usr/lib /usr/local/lib下不用在上面写路径，会自己搜索

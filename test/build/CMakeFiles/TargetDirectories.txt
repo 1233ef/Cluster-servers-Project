@@ -1,0 +1,5 @@
+/home/txs/test/build/CMakeFiles/rebuild_cache.dir
+/home/txs/test/build/CMakeFiles/edit_cache.dir
+/home/txs/test/build/testmuduo/CMakeFiles/rebuild_cache.dir
+/home/txs/test/build/testmuduo/CMakeFiles/server.dir
+/home/txs/test/build/testmuduo/CMakeFiles/edit_cache.dir

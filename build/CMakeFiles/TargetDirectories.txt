@@ -1,0 +1,10 @@
+/home/txs/project/build/CMakeFiles/rebuild_cache.dir
+/home/txs/project/build/CMakeFiles/edit_cache.dir
+/home/txs/project/build/src/CMakeFiles/rebuild_cache.dir
+/home/txs/project/build/src/CMakeFiles/edit_cache.dir
+/home/txs/project/build/src/server/CMakeFiles/rebuild_cache.dir
+/home/txs/project/build/src/server/CMakeFiles/ChatServer.dir
+/home/txs/project/build/src/server/CMakeFiles/edit_cache.dir
+/home/txs/project/build/src/client/CMakeFiles/rebuild_cache.dir
+/home/txs/project/build/src/client/CMakeFiles/ChatClient.dir
+/home/txs/project/build/src/client/CMakeFiles/edit_cache.dir
